@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.test.context.ContextConfiguration"/>
+<fullyQualifiedTypeName name="org.springframework.test.context.TestPropertySource"/>
+<fullyQualifiedTypeName name="com.child1.child1.Child1Application"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+server.port: 9000
+local.management.port:9001
+spring.banner.location=classpath:/child1/src/main/resources/banner.txt
+spring.main.web-application-type=none

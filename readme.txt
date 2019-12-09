@@ -2,4 +2,4 @@ This is sample maven multimodule(parent , child1 , child2) project having spring
 
 run tests using command from parent folder :
 
-c:\parent> mvn test failsafe:integration-test
+c:\parent> mvn test failsafe:integration-test surefire-report:failsafe-report-only

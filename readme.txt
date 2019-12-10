@@ -6,3 +6,4 @@ c:\parent> mvn test failsafe:integration-test surefire-report:failsafe-report-on
 
 A HTML report should be generated in ${basedir}/target/site/failsafe-report.html.
 
+reference : https://www.baeldung.com/maven-integration-test
